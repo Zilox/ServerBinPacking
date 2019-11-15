@@ -1,0 +1,22 @@
+C:\Projet\bin\Debug\netcoreapp2.0\Projet.deps.json
+C:\Projet\bin\Debug\netcoreapp2.0\Projet.runtimeconfig.json
+C:\Projet\bin\Debug\netcoreapp2.0\Projet.runtimeconfig.dev.json
+C:\Projet\bin\Debug\netcoreapp2.0\Projet.dll
+C:\Projet\bin\Debug\netcoreapp2.0\Projet.pdb
+C:\Projet\obj\Debug\netcoreapp2.0\Projet.csproj.CoreCompileInputs.cache
+C:\Projet\obj\Debug\netcoreapp2.0\Projet.AssemblyInfoInputs.cache
+C:\Projet\obj\Debug\netcoreapp2.0\Projet.AssemblyInfo.cs
+C:\Projet\obj\Debug\netcoreapp2.0\Projet.dll
+C:\Projet\obj\Debug\netcoreapp2.0\Projet.pdb
+C:\Projet\obj\Debug\netcoreapp2.0\Projet.csprojResolveAssemblyReference.cache
+C:\Projet - SacADos\bin\Debug\netcoreapp2.0\Projet.deps.json
+C:\Projet - SacADos\bin\Debug\netcoreapp2.0\Projet.runtimeconfig.json
+C:\Projet - SacADos\bin\Debug\netcoreapp2.0\Projet.runtimeconfig.dev.json
+C:\Projet - SacADos\bin\Debug\netcoreapp2.0\Projet.dll
+C:\Projet - SacADos\bin\Debug\netcoreapp2.0\Projet.pdb
+C:\Projet - SacADos\obj\Debug\netcoreapp2.0\Projet.csprojResolveAssemblyReference.cache
+C:\Projet - SacADos\obj\Debug\netcoreapp2.0\Projet.csproj.CoreCompileInputs.cache
+C:\Projet - SacADos\obj\Debug\netcoreapp2.0\Projet.AssemblyInfoInputs.cache
+C:\Projet - SacADos\obj\Debug\netcoreapp2.0\Projet.AssemblyInfo.cs
+C:\Projet - SacADos\obj\Debug\netcoreapp2.0\Projet.dll
+C:\Projet - SacADos\obj\Debug\netcoreapp2.0\Projet.pdb

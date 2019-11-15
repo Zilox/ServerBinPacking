@@ -1,0 +1,13 @@
+C:\Projet\bin\Release\netcoreapp2.0\win10-x64\hostpolicy.dll
+C:\Projet\bin\Release\netcoreapp2.0\win10-x64\hostfxr.dll
+C:\Projet\bin\Release\netcoreapp2.0\win10-x64\Projet.exe
+C:\Projet\bin\Release\netcoreapp2.0\win10-x64\Projet.deps.json
+C:\Projet\bin\Release\netcoreapp2.0\win10-x64\Projet.runtimeconfig.json
+C:\Projet\bin\Release\netcoreapp2.0\win10-x64\Projet.runtimeconfig.dev.json
+C:\Projet\bin\Release\netcoreapp2.0\win10-x64\Projet.dll
+C:\Projet\bin\Release\netcoreapp2.0\win10-x64\Projet.pdb
+C:\Projet\obj\Release\netcoreapp2.0\win10-x64\Projet.csproj.CoreCompileInputs.cache
+C:\Projet\obj\Release\netcoreapp2.0\win10-x64\Projet.AssemblyInfoInputs.cache
+C:\Projet\obj\Release\netcoreapp2.0\win10-x64\Projet.AssemblyInfo.cs
+C:\Projet\obj\Release\netcoreapp2.0\win10-x64\Projet.dll
+C:\Projet\obj\Release\netcoreapp2.0\win10-x64\Projet.pdb
